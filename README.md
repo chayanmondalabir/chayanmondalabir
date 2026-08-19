@@ -103,6 +103,7 @@
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -121,6 +122,7 @@
 ---
 
 <div align="center">
+-->
 
 ### 💬 Thanks for visiting my profile!
 
