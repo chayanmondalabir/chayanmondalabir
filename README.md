@@ -10,9 +10,9 @@
 
 <!-- ===================== EDUCATION BADGES ===================== -->
 <p align="center">
-  🎓 <b>B.Tech in EEE</b> — <a href="https://cgu-odisha.ac.in/"><b>@CGU</b></a>
+  🎓 <b>B.Tech in EEE</b> — <a href="https://share.google/ngnADTPTBiOUoWYlW"><b>CGU</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎓 <b>M.Tech in CSE</b> — <a href="https://www.srmist.edu.in/"><b>@SRM-KTR</b></a>
+  🎓 <b>M.Tech in CSE</b> — <a href="https://share.google/GdIKenHCISXWxcNoW"><b>SRM-KTR</b></a>
 </p>
 
 </div>
