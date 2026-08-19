@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Explorer;Computer+Vision+Researcher;Data+Science+Aspirant" alt="Typing SVG" />
 </a>
 
-<!-- ===================== EDUCATION BADGES ===================== -->
+<!-- ===================== EDUCATION (only @CGU / @SRM-KTR are clickable) ===================== -->
 <p align="center">
   🎓 <b>B.Tech in EEE</b> — <a href="https://cgu-odisha.ac.in/"><b>CGU</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎓 <b>M.Tech in CSE</b> — <a href="https://www.srmist.edu.in/college/college-of-engineering-technology/"><b>SRM-KTR</b></a>
+  🎓 <b>M.Tech in CSE</b> — <a href="https://www.srmist.edu.in/"><b>SRM-KTR</b></a>
 </p>
 
 </div>
@@ -31,7 +31,19 @@
   * Image Analysis
   * Video Analysis
   * Explainable AI (XAI)
-* 📄 **Resume:** [View my Resume](#) <!-- 🔗 replace # with your resume link -->
+
+<!--
+  📄 RESUME LINK — how to set this up with Google Drive:
+  1. Upload your resume PDF to Google Drive.
+  2. Right-click the file → "Share" → change access to "Anyone with the link" → set role to "Viewer".
+  3. Click "Copy link". It will look like:
+     https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+  4. Paste that full link in place of the # below.
+  Note: Drive links open a preview page (not a direct download) — that's expected and fine for viewing.
+-->
+<p>
+  📄 <b>Resume:</b> <a href="#">View my Resume</a>
+</p>
 
 ---
 
@@ -105,8 +117,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayanmondalabir&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
-
-<!-- 🔁 Replace YOUR_GITHUB_USERNAME above with your actual GitHub username so the stats load correctly -->
 
 ---
 
