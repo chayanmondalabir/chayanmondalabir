@@ -9,9 +9,10 @@
 </a>
 
 <!-- ===================== EDUCATION BADGES ===================== -->
-<p>
-  <img src="https://img.shields.io/badge/B.Tech-EEE%20%40%20CGU-blue?style=for-the-badge&logo=studyverse&logoColor=white" alt="BTech EEE"/>
-  <img src="https://img.shields.io/badge/M.Tech-CSE%20%40%20SRM--KTR-orange?style=for-the-badge&logo=googlescholar&logoColor=white" alt="MTech CSE"/>
+<p align="center">
+  🎓 <b>B.Tech in EEE</b> — <a href="https://cgu-odisha.ac.in/"><b>@CGU</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎓 <b>M.Tech in CSE</b> — <a href="https://www.srmist.edu.in/"><b>@SRM-KTR</b></a>
 </p>
 
 </div>
@@ -98,11 +99,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayanmondalabir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayanmondalabir&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <!-- 🔁 Replace YOUR_GITHUB_USERNAME above with your actual GitHub username so the stats load correctly -->
@@ -113,6 +114,6 @@
 
 ### 💬 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2E9EF7" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=chayanmondalabir&style=for-the-badge&color=2E9EF7" alt="Profile Views"/>
 
 </div>
