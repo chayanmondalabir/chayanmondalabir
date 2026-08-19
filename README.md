@@ -103,7 +103,6 @@
 
 ---
 
-<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -122,7 +121,15 @@
 ---
 
 <div align="center">
--->
+
+<!-- ===================== QUOTE ===================== -->
+<h3>💡 <i>"Every model I build is just my way of asking data to tell the truth."</i> 💡</h3>
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💬 Thanks for visiting my profile!
 
